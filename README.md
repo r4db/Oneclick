@@ -15,3 +15,5 @@ It's important to note many of the debloat features/related things aren't option
 3. Once you reach the Extra's section, simply click "Restart" to apply all tweasks!
 
 If you need Help, go to [Oneclick Help](https://github.com/QuakedK/Oneclick/blob/main/Oneclick%20Help.md) or [Oneclick Recommendations](https://github.com/QuakedK/Oneclick/blob/main/Oneclick%20Recommendations.md)
+
+*Modified for my personal needs*
